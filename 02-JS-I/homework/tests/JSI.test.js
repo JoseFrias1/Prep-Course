@@ -1,6 +1,7 @@
 /* eslint-disable no-undef */
 const {
   nuevaString,
+  /* dfggfdg */
   nuevoNum,
   nuevoBool,
   nuevaResta,
